@@ -1,0 +1,119 @@
+* {
+	margin: 0px;
+	padding: 0px;
+}
+
+body{
+font-family: "Titillium Web", "Trebuchet MS", "Lucida Grande", "Lucida Sans", sans-serif;
+}
+
+header {
+	background-color: #fff;
+	width: 100%;
+	/*position: relative;*/
+	/*height: 100px;*/
+	padding: 30px 0;
+	background-color: #A9A8A8;
+	/*-webkit-box-shadow: 0 5px 20px #505050;*/
+}
+
+.headerbar {
+	padding-top: 10px;
+	padding-bottom: 20px;
+	font-size: 1.3em;
+	/*border: 2px solid black;*/
+/*	position: relative;
+	float: left;*/
+}
+
+.color {
+	/*text-transform: uppercase;*/
+	font-weight: 100;
+	font-variant: small-caps;
+	text-align: center;
+	color: #505050;
+		letter-spacing: 3px;
+	line-height: 1.3em;
+	background: #D0D0D0;
+	padding: 5px;
+	/*border: 2px solid black;*/
+}
+
+#name {
+	border-top: 1px solid #505050;	
+}
+
+#portfolio {
+	border-bottom: 1px solid #505050;	
+}
+
+.nav {
+	float: right;
+	position: relative;
+	/*bottom: 5px;*/
+	/*top: 73px;*/
+	color: #6F6F6F;
+}
+
+
+.webdev {
+	text-decoration: none;
+	color: #fff;
+	padding-left: 15px;
+	padding-right: 15px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+
+.webdev:hover {
+	cursor: pointer;
+	background-color: #6F6F6F;
+}
+
+.webdev:active {
+	background-color: #fff;
+	color: #000;
+}
+
+article {
+	/*margin: auto;
+	width: 90%;
+	height: 50px;
+	background-color: red;*/
+}
+
+
+.container {
+	background-color: #AB8787;
+	margin: auto;
+	width: 90%;
+	height: 100%;
+	/*min-height: 100%;*/
+	/*background-color: red;*/
+	/*display: inline-block;*/
+	/*height: 500px;*/
+}
+
+.inline {
+	float: left;
+	/*display: inline;*/
+	padding: 0 10px;
+	/*margin: 0px;*/
+}
+
+#blue {
+	background-color: blue;
+}
+
+#red {
+	background-color: red;
+}
+
+#green {
+	background-color: green;
+}
+
+#rightstuff {
+	background-color: yellow;
+	float: right;
+}

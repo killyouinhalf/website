@@ -1,0 +1,39 @@
+head	1.2;
+access;
+symbols;
+locks
+	keithlab:1.2; strict;
+comment	@# @;
+
+
+1.2
+date	2013.09.25.18.04.23;	author keithlab;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	2013.09.25.18.04.23;	author keithlab;	state Exp;
+branches;
+next	;
+
+
+desc
+@@
+
+
+1.2
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@keith:$1$tavdqAv7$sya4x0ZJhGlbgv8HFWTdZ/:15973::::::
+@
+
+
+1.1
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d1 1
+@

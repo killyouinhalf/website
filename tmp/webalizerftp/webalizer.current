@@ -1,0 +1,128 @@
+# Webalizer V2.23-05 Incremental Data - 09/25/2013 14:11:28
+2013 9 25 14 11 28
+3 3 1 3 0 0 2953 1 1 1
+1 3 3 25 25
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+3 3 2953 1 1 1
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+3 3 2953 1
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0
+0
+0
+3
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/home/keithlab/public_html/style.css
+0 1 0 895 0 0
+/home/keithlab/public_html/webdevvswebdes.html
+0 1 153551616 1046 0 0
+/home/keithlab/public_html/
+0 1 153551488 1012 1 0
+# End Of Table - urls
+# -sites- (monthly)
+97-83-48-190.dhcp.aldl.mi.charter.com
+0 3 3 2953 1 1380118288
+/home/keithlab/public_html/
+# End Of Table - sites (monthly)
+# -sites- (daily)
+97-83-48-190.dhcp.aldl.mi.charter.com
+0 3 3 2953 1 1380118288
+/home/keithlab/public_html/
+# End Of Table - sites (daily)
+# -referrers- 
+# End Of Table - referrers
+# -agents- 
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+keithlab
+0 3 3 2953 2 1380118288
+# End Of Table - usernames

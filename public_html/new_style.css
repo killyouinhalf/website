@@ -1,0 +1,101 @@
+* {
+	margin: 0px;
+	padding: 0px;
+}
+
+body{
+font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Tahoma, sans-serif;
+}
+
+header {
+	background-color: #000;
+	width: 100%;
+	/*position: relative;*/
+	height: 100px;
+	/*padding: 10px;*/
+}
+
+.headerbar {
+	padding: 15px;
+	padding-bottom: 0px;
+/*	position: relative;
+	float: left;*/
+}
+
+.color {
+	color: #fff;
+	/*padding: 5px;*/
+}
+
+.nav {
+	float: right;
+	position: relative;
+	bottom: 8px;
+	/*top: 73px;*/
+	/*color: #6F6F6F;*/*/
+}
+
+
+.webdev {
+	text-decoration: none;
+	color: #fff;
+	padding-left: 15px;
+	padding-right: 15px;
+	position: relative;
+	/*padding-left: 50px;*/
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+
+.webdev:hover {
+	cursor: pointer;
+	background-color: #6F6F6F;
+}
+
+.webdev:active {
+	background-color: #fff;
+	color: #000;
+}
+
+
+.container {
+	background-color: #AB8787;
+	/*clear: both;*/
+	/*display: inline-block;*/
+	/*margin: auto;*/
+	/*width: 500px;*/
+	/*height: 40px;*/
+	/*padding: 10px 0;*/
+}
+
+.inline {
+
+	float: left;
+	/*display: inline;*/
+	padding: 3px 10px;
+	/*margin: 0px;*/
+}
+
+#blue {
+	background-color: blue;
+	border: 2px solid white;
+}
+
+#red {
+	background-color: red;
+	border: 2px solid white;
+}
+
+#green {
+	background-color: green;
+	border: 2px solid white;
+}
+
+#rightstuff {
+	background-color: yellow;
+	border: 2px solid white;
+	/*clear: right;*/
+	float: right;
+	padding: 0 15px;
+
+}
